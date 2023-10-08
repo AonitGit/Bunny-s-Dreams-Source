@@ -1,0 +1,2 @@
+if (user) clicks [with] left-btn on "new" =
+	next_frame
